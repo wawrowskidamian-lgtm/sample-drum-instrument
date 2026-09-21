@@ -1,0 +1,57 @@
+{
+  "package": "Sample Drum Instrument V1 — CODEX READY v4.1 FINAL",
+  "version": "v4.1-final",
+  "background_policy": "Exact supplied JPEG bytes; no regeneration, crop, stretch, or geometry change. Fixed programmatic silver top control rail overlays only the flat header area and must preserve decorative raised top hardware.",
+  "files": [
+    {
+      "path": "README_FOR_CODEX.md",
+      "bytes": 3201,
+      "sha256": "0a36f9b2a876a0e496e91e80168d2a65f1d2c0d4b18cbd9c2612571f86b68ff5"
+    },
+    {
+      "path": "SPEC.md",
+      "bytes": 13717,
+      "sha256": "79652448da0407169314418e4024523455c102f3fb61106c9b974d4ae7365154"
+    },
+    {
+      "path": "START_HERE.txt",
+      "bytes": 553,
+      "sha256": "106d17c8cda0422a005431a6a32b38f45c578050e52a554c0a6ffa929caf6727"
+    },
+    {
+      "path": "UI_LAYOUT.md",
+      "bytes": 6125,
+      "sha256": "46da4911deae285bfa49c627709e7e4671014987ccf1b3fdcbe874e0bef45158"
+    },
+    {
+      "path": "assets/backgrounds/MAIN_background.jpg",
+      "bytes": 235828,
+      "sha256": "5ad31837f09c5691f269642333b6876d840b24ce285a210146509f06fd76f27a",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "assets/backgrounds/SETTINGS_background.jpg",
+      "bytes": 271891,
+      "sha256": "412aec9644a8a4597da02040adc47f8c62ca4240c8efe4c9e1659e44d7476ffb",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "JPEG"
+    },
+    {
+      "path": "assets/backgrounds/USER_background.jpg",
+      "bytes": 218767,
+      "sha256": "69f202719179d103854fa1c16590612da0324ff0346192d1b2b6e6eb0e3ca6a8",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "format": "JPEG"
+    }
+  ]
+}

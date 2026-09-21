@@ -1,0 +1,9 @@
+SAMPLE DRUM INSTRUMENT V1 — CODEX READY V4
+
+1. Read README_FOR_CODEX.md.
+2. Read SPEC.md completely.
+3. Read UI_LAYOUT.md completely, especially the mandatory V4 fixed top control rail section.
+4. Inspect the three exact JPEG backgrounds in assets/backgrounds/.
+5. Implement V1 without redesigning the supplied backgrounds or adding unrequested features.
+
+V4 key clarification: the top interactive controls sit on one fixed programmatic silver/metal rail, while the decorative raised Walkman hardware above it must remain visible and non-interactive.
